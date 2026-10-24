@@ -3,8 +3,8 @@
 I'm Arushi, a computer science student with a focus on data analytics and AI. I'm interested in transforming raw data into insights that can support better decision-making!
 
 ✨ About Me ✨
-- 🔭 I’m working on improving my data analysis and visualization skills through a variety of tools, such as Python!
-- 🌱 I’m currently learning about data and AI through my college coursework and independent projects!
+- 🔭 I’m an intern for the PERSEUS Project, where I create dashboards to visualize forests within the eastern United States to help landowners to make informed, sustainable decisions.
+- 🌱 I’m currently learning more about data analytics and AI through my college coursework and independent projects!
 - 📫 Reach out to me via [LinkedIn](www.linkedin.com/in/arushi-saravanan-17bb1432a)!
 
 ✨ Technical Skills ✨
