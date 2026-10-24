@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Arushi, a computer science student with a focus on data analytics and AI. I'm interested in transforming raw data into insights that can support better decision-making!
+
+✨ About Me ✨
+- 🔭 I’m working on improving my data analysis and visualization skills through a variety of tools, such as Python!
+- 🌱 I’m currently learning about data and AI through my college coursework and independent projects!
+- 📫 Reach out to me via [LinkedIn](www.linkedin.com/in/arushi-saravanan-17bb1432a)!
+
+
 <!--
 **aru2-2/aru2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
