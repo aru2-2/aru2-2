@@ -7,6 +7,18 @@ I'm Arushi, a computer science student with a focus on data analytics and AI. I'
 - 🌱 I’m currently learning about data and AI through my college coursework and independent projects!
 - 📫 Reach out to me via [LinkedIn](www.linkedin.com/in/arushi-saravanan-17bb1432a)!
 
+✨ Technical Skills ✨
+
+![Static Badge](https://img.shields.io/badge/python-blue)
+![Static Badge](https://img.shields.io/badge/java-red)
+![Static Badge](https://img.shields.io/badge/javascript-green)
+![Static Badge](https://img.shields.io/badge/html-purple)
+![Static Badge](https://img.shields.io/badge/css-orange)
+![Static Badge](https://img.shields.io/badge/sql-pink)
+![Static Badge](https://img.shields.io/badge/dart-brown)
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aru2-2&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 <!--
 **aru2-2/aru2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
